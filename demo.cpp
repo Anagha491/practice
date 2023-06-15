@@ -2,6 +2,6 @@
 #include<stdio.h>
 void main()
 {
-	cout<<"hello";
+	cout<<"hello,hi how are you";
 }
 
